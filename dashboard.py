@@ -4,7 +4,7 @@ import requests
 import json
 
 def main():
-    api_url = "http://127.0.0.1:5000/predict"  
+    api_url = "https://api-p7-a17981e4f527.herokuapp.com/predict"  
 
     st.title('Tableau de bord solvabilité client')
 
